@@ -1,2 +1,4 @@
 # TranSign
-***Automatic Translation LSFB/French - My new project***
+Automatic Translation LSFB/French - My new project
+
+Project in its infancy
